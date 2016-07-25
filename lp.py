@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# DEPENDENCIES
+# install glpk
+
 # Example from:
 # http://thomas-cokelaer.info/blog/2012/11/solving-a-linear-programming-problem-with-python-pulp/
 from pulp import *
