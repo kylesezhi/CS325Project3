@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+# Example from:
+# http://thomas-cokelaer.info/blog/2012/11/solving-a-linear-programming-problem-with-python-pulp/
 from pulp import *
  
 # declare your variables
