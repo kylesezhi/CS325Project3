@@ -29,5 +29,5 @@ status = prob.solve(GLPK(msg=0))
 LpStatus[status]
  
 # print the results x1 = 20, x2 = 60
-value(x1)
-value(x2)
+print value(x1)
+print value(x2)
